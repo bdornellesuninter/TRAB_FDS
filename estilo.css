@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(186, 179, 181);
+}
+
+.titulo{
+    color: rgb(0, 38, 255);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.paragrafo{
+    font-size: 20px;
+    text-justify: auto;
+    margin: 15px;
+}
+
+.lista li{
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.foto_hobbie{
+    border-radius: 10%;
+}
+
+.tabela {
+  border-collapse: collapse;
+  width: 30%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.tabela th, .tabela td {
+  border: 3px solid #4e4d4d;
+  padding: 10px;
+  text-align: center;
+}
+
+.link:hover{
+    color: rgb(255, 0, 0);    
+}
